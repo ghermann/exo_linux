@@ -3,4 +3,5 @@ var b=2;
 a++;
 b = a*b;
 b++;
+debugger;
 b
